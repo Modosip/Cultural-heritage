@@ -1,2 +1,2 @@
 # New Home in Moscow
- Cursera final project
+ Coursera final project
