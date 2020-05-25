@@ -1,2 +1,2 @@
-# New Home in Moscow
+# Сultural heritage in Moscow
  Coursera final project
